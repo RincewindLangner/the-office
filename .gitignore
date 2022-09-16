@@ -4,6 +4,7 @@ docs/_build/
 */_build/
 docs/_build/*
 docs/_build
+docs/_build*
 docs/_build/doctrees/environment.pickle
 docs/_build/doctrees/index.doctree
 docs/_build/doctrees/index.doctree
