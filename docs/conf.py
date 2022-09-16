@@ -21,6 +21,7 @@ author = 'Matthew'
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.napoleon",
+    "sphinx.ext.githubpages"
 ]
 
 
