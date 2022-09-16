@@ -1,7 +1,10 @@
+from dataclasses import dataclass
+from datetime import date
 import uuid
 
 JOB_TITLES = ["SALES_REP", "REGIONAL_MANAGER", "MANAGER", "HR", "ACCOUNTING"]
-
+""":obj:`list` of :obj:`str`: A list of valid job titles at Dunder Mifflin. 
+"""
 
 @dataclass
 class Employee:
